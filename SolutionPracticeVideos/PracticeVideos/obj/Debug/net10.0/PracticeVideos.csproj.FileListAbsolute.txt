@@ -1,0 +1,14 @@
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\bin\Debug\net10.0\PracticeVideos.exe
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\bin\Debug\net10.0\PracticeVideos.deps.json
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\bin\Debug\net10.0\PracticeVideos.runtimeconfig.json
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\bin\Debug\net10.0\PracticeVideos.dll
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\bin\Debug\net10.0\PracticeVideos.pdb
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.AssemblyInfoInputs.cache
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.AssemblyInfo.cs
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.csproj.CoreCompileInputs.cache
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.dll
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\refint\PracticeVideos.dll
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.pdb
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\PracticeVideos.genruntimeconfig.cache
+C:\YoutubeCourses\Codographia(C#)\SolutionPracticeVideos\PracticeVideos\obj\Debug\net10.0\ref\PracticeVideos.dll
